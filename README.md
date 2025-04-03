@@ -5,4 +5,4 @@ Generating realistic nighttime foggy images remains a challenging task due to th
 
 This is the demo code for the manuscript entitled "Realistic Nighttime Foggy Image Generation using a Semi-Analytic Model and Gradient Sparse Prior", which we wish to be considered for publication in “The Visual Computer”.
 
-If you use this code, you need just click on the NightHazeSim.m in your home directory. The TestImg file provides the original nighttime fog-free images and the corresponding depth maps for algorithm testing. 
+If you use this code, you just click on the **NightHazeSim.m** in your home directory. The **TestImg** file provides the original nighttime fog-free images and the corresponding depth maps for algorithm testing. 
