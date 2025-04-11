@@ -8,10 +8,10 @@ Experimental results, including subjective and quantitative evaluations, demonst
 ![image](https://github.com/user-attachments/assets/16066bff-d946-46c6-ba50-953da796ff75)
 
 #### Application Scenarios
-•	Target tracking and detection in oceanographic research.  
-•	Target tracking and detection in oceanographic research.  
-•	Target tracking and detection in oceanographic research.  
-•	Target tracking and detection in oceanographic research.
+•	**Autonomous driving systems:** create synthetic foggy datasets with varying densities for training the target detection capability of the vehicle perception system under low visibility conditions.  
+•	**Film and game production:**  simulate natural fog effects in CGI or game engines to create an atmosphere and enhance the sense of immersion.  
+•	**Military simulation training:** simulate battlefield environment to provide soldiers with training scenarios that closely resemble real foggy combat conditions.
+•	**UAV testing:** evaluate the obstacle avoidance and positioning algorithm performance of UAVs under complex meteorological conditions.
 
 #### Key Algorithm Description and Implementation
 •	Target tracking and detection in oceanographic research.  
