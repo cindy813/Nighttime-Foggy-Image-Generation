@@ -7,12 +7,30 @@ Experimental results, including subjective and quantitative evaluations, demonst
 
 ![image](https://github.com/user-attachments/assets/16066bff-d946-46c6-ba50-953da796ff75)
 
-#### Application Scenarios:
+#### Application Scenarios
 •	Target tracking and detection in oceanographic research.  
 •	Target tracking and detection in oceanographic research.  
 •	Target tracking and detection in oceanographic research.  
 •	Target tracking and detection in oceanographic research.
 
-This is the demo code for the manuscript entitled "Realistic Nighttime Foggy Image Generation using a Semi-Analytic Model and Gradient Sparse Prior", which we wish to be considered for publication in “The Visual Computer”.
+#### Key Algorithm Description and Implementation
+•	Target tracking and detection in oceanographic research.  
+•	Target tracking and detection in oceanographic research.  
+•	Target tracking and detection in oceanographic research.  
+•	Target tracking and detection in oceanographic research.
 
+#### Requirements
+#### Dependencies
+hjfhakhfkjashf 
+
+#### It was ran in following environment:
+•	Target tracking and detection in oceanographic research.  
+•	Target tracking and detection in oceanographic research.  
+•	Target tracking and detection in oceanographic research.  
+•	Target tracking and detection in oceanographic research.
+
+#### Preparing Data
+
+#### Getting Started:
+#### Usage Example
 If you use this code, you just click on the **NightHazeSim.m** in your home directory. The **TestImg** file provides the original nighttime fog-free images and the corresponding depth maps for algorithm testing. 
